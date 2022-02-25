@@ -2,7 +2,9 @@
 
 
 npm init --y
+
  //create tsconfig.json
+ 
 tsc --init 
 
 npm i express @types/express nodemon ts-node @types/node typescript
